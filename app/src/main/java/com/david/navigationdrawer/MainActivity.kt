@@ -76,7 +76,7 @@ class MainActivity : ComponentActivity() {
                             verticalArrangement = Arrangement.Center,
                             horizontalAlignment = Alignment.CenterHorizontally
                         ) {
-                            Text(text = "UI \n UI \n UI \n")
+                            Text(text = "UI \n UI \n UI \n UI \n")
                         }
                     }
                 }
